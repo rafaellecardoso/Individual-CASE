@@ -1,0 +1,136 @@
+
+.text_principal{
+    font-weight: bold;
+    color: white;
+    margin-left: 140px;
+    
+}
+.h2_text{
+    color: #77ffc0;
+}
+
+#wrapContainer{
+ display: flex;
+ flex-direction: column;
+ width: 90vw;
+
+ 
+ 
+
+}
+
+.modalbuttonFechar{
+   
+   border-radius: 8px;
+   text-transform: uppercase;
+    outline: none;
+    font-weight: 700;
+    letter-spacing: 3px;
+    color: #2b134b;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px;
+
+}
+
+.main_container{
+    display: flex;
+    flex-direction: column;
+}
+
+#wrapModal button{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    
+
+
+}
+
+.infos_modal input{
+    border: none;
+    
+
+   
+
+}
+.infos_modal li{
+    list-style: none;
+    text-transform:capitalize;
+    color:#2b134b;
+   
+    
+
+   
+
+} 
+
+.text_principal{
+    color: #00FF88;
+    font-size: 40px;
+
+}
+
+
+.ModalPrincipal button{
+    padding: 16px 0px;
+    margin: 25px;
+    width: 600px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: #2b134b;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px;
+    box-sizing: border-box
+     
+}
+
+   
+
+
+.infos_modal{
+    box-shadow: 0px 10px 40px -12px;
+    border: none;
+    border-radius: 8px;
+}
+
+
+.btn_modal button{
+    padding: 16px 0px;
+    margin: 25px;
+    width: 200px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: #2b134b;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px -12px;
+}
+
+
+#wrapContainer li{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#wrapContainer input{
+   
+   border-radius: 5px;
+   border: none;
+    
+}
+
+#infosModal{
+ border: 1px solid black;
+ border-radius: 10px;
+ margin: 10px;
+
+}

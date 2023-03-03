@@ -1,0 +1,49 @@
+.container_mainsobre{
+ width: 100vw; 
+ height:100vh;
+ background: #201b2c;  
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.container_imgleft{
+    border: none;
+}
+
+.img_sobre{
+   width: 40vw;
+   height: 30%;
+
+}
+
+.h1bugado{
+  
+    background: #201b2c;  
+    margin: 0;
+    font-weight: bold;
+    color:#77ffc0;
+
+}
+
+
+.container_textsobre p {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  word-wrap: break-word;
+  color: #77ffc0;
+
+}
+.container_textsobre{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 80px;
+   
+
+}
+
