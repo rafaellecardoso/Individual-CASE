@@ -21,7 +21,7 @@ criar o banco de dados "jogos"
 parear de novo a pasta back end 
 colocar node index.js para iniciar o servidor 
 fazer a mesma coisa para o front and 
-colocar 
+colocar npm run dev
 ```
 <hr>
 
